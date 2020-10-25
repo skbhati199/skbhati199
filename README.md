@@ -1,4 +1,4 @@
-<h1 align="center">Senior Sonu Kumar</h1>
+<h1 align="center">Sonu Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skbhati199&label=Profile%20views&color=0e75b6&style=flat" alt="skbhati199" /> </p>
