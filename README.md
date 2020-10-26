@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Java**
 
-- 👯 I’m looking to collaborate on **Resturatn Android App**
+- 👯 I’m looking to collaborate on **Resturant Android App**
 
 - 🤝 I’m looking for help with **Doctor and Demand**
 
