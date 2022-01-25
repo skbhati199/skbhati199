@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skbhati199&label=Profile%20views&color=0e75b6&style=flat" alt="skbhati199" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skbhati199" alt="skbhati199" /></a> </p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skbhati199&show_icons=true&locale=en" alt="skbhati199" /></p>
 <p align="left"> <a href="https://twitter.com/sonukumarbhati" target="blank"><img src="https://img.shields.io/twitter/follow/sonukumarbhati?logo=twitter&style=for-the-badge" alt="sonukumarbhati" /></a> </p>
 
 - 🔭 I’m currently working on **Android E-commerce App**
@@ -59,4 +59,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skbhati199&show_icons=true&locale=en&layout=compact" alt="skbhati199" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skbhati199&show_icons=true&locale=en" alt="skbhati199" /></p>
+
