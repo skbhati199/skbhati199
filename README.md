@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Kotlin, Dart, Flutter, GoLang, Android, Nodejs, Python**
 
-- 📫 How to reach me **skbhati199@gmail.com**
+- 📫 How to reach me **skbhati199@gmail.com **
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonu-kumar-9810659036/](https://www.linkedin.com/in/sonu-kumar-9810659036/)
 
