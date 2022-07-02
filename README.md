@@ -1,7 +1,14 @@
 <h1 align="center">Sonu Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skbhati199&label=Profile%20views&color=0e75b6&style=flat" alt="skbhati199" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skbhati199&label=Profile%20views&color=0e75b6&style=flat" alt="skbhati199" /> 
+<a href="https://g.dev/skbhati199"><img alt="Google Developer Expert" src="https://img.shields.io/endpoint?color=blue&label=Google%20Expert%20Developer&logo=android&style=plastic&url=https%3A%2F%2Fraw.githubusercontent.com%2Fskbhati199%2Fskbhati199%2Fmaster%2Fprofile"/></a> 
+ <a href="https://medium.com/@skbhati199"><img alt="Medium" src="https://img.shields.io/badge/Medium-skbhati199-blue"/></a>
+<a href="https://github.com/sponsors/skbhati199"><img alt="Sponsors" src="https://img.shields.io/badge/Github-Sponsors-pink"/></a>
+
+  
+  
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skbhati199&theme=onedark" alt="skbhati199" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skbhati199&show_icons=true&locale=en&theme=onedark" alt="skbhati199" /></p>
