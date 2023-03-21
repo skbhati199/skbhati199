@@ -1,5 +1,5 @@
 <h1 align="center">Sonu Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Senior Mobile(Android/iOS) App Developer | EV Technology | Full Stack Developer | React Native Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skbhati199&label=Profile%20views&color=0e75b6&style=flat" alt="skbhati199" /> 
 <a href="https://g.dev/skbhati199"><img alt="Google Developer Expert" src="https://img.shields.io/endpoint?color=blue&label=Google%20Expert%20Developer&logo=android&style=plastic&url=https%3A%2F%2Fraw.githubusercontent.com%2Fskbhati199%2Fskbhati199%2Fmaster%2Fprofile"/></a> 
@@ -14,13 +14,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skbhati199&show_icons=true&locale=en&theme=onedark" alt="skbhati199" /></p>
 <p align="left"> <a href="https://twitter.com/skbhati199" target="blank"><img src="https://img.shields.io/twitter/follow/skbhati199?logo=twitter&style=for-the-badge" alt="skbhati199" /></a> </p>
 
-- 🔭 I’m currently working on **EV Technology**
+- 🔭 I’m currently working on **EV Technology** programming with React Native
 
-- 🌱 I’m currently learning **Kotlin, Java, Flutter, Data Science, Machine Learning, GoLang**
+- 🌱 I’m currently learning **Kotlin, Java, Flutter, Data Science, GoLang**
 
 - 👯 I’m looking to collaborate on **Near By EV Charging Software solutions**
 
-- 🤝 I’m looking for help with **Flutter, Android, GoLang**
+- 🤝 I’m looking for help with **Flutter, Android, GoLang, React Native, Reactjs, TailwindCss**
 
 - 👨‍💻 All of my projects are available at [https://github.com/skbhati199](https://github.com/skbhati199)
 
