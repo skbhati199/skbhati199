@@ -14,6 +14,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skbhati199&show_icons=true&locale=en&theme=onedark" alt="skbhati199" /></p>
 <p align="left"> <a href="https://twitter.com/skbhati199" target="blank"><img src="https://img.shields.io/twitter/follow/skbhati199?logo=twitter&style=for-the-badge" alt="skbhati199" /></a> </p>
 
+<a href="https://app.daily.dev/infoskills"><img src="https://api.daily.dev/devcards/307c365430864aeb9ef05cb8d9f1e94a.png?r=axs" width="400" alt="Info Skills's Dev Card"/></a>
+
 - 🔭 I’m currently working on **EV Technology** programming with React Native
 
 - 🌱 I’m currently learning **Kotlin, Java, Flutter, Data Science, GoLang**
