@@ -1,3 +1,6 @@
+<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sonu-kumar-9810659036" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sonu-kumar-9810659036?trk=profile-badge">Sonu Kumar</a></div>
+              
+
 <h3 align="center">A passionate Senior Software Developer | EV Technology | Full Stack Developer | React Native Developer</h3>
 
 - 🔭 I’m currently working on **SAAS EV Technology** programming with Software Developer
