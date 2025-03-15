@@ -155,11 +155,19 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/skbhati199/your-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skbhati199&repo=your-repo-1&theme=radical" alt="Repo 1" />
+  <a href="https://github.com/skbhati199/ai-img-gen-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skbhati199&repo=ai-img-gen-python&theme=radical" alt="Image Gen With AI" />
   </a>
-  <a href="https://github.com/skbhati199/your-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skbhati199&repo=your-repo-2&theme=radical" alt="Repo 2" />
+  <a href="https://github.com/skbhati199/Open-Sora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skbhati199&repo=Open-Sora&theme=radical" alt="Wordpress ai gen" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/skbhati199/codecrafters-http-server-go">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skbhati199&repo=codecrafters-http-server-go&theme=radical" alt="Create http server in go" />
+  </a>
+  <a href="https://github.com/skbhati199/converter-ico-to-png">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skbhati199&repo=converter-ico-to-png&theme=radical" alt="converter ico to png" />
   </a>
 </div>
 
@@ -174,21 +182,88 @@
 
 I'm currently focused on developing sustainable software solutions for the EV industry, with a particular emphasis on:
 
-- ⚡ Charging station management systems
-- 📊 Real-time analytics for energy consumption
-- 🔄 Integration of renewable energy sources
-- 📱 Cross-platform mobile applications for EV users
+- ⚡ Charging station management systems with real-time monitoring
+- 📊 Advanced analytics for energy consumption and predictive maintenance
+- 🔄 Smart grid integration with renewable energy sources
+- 📱 Cross-platform mobile applications for EV users with geolocation features
+- 🔋 Battery management systems with ML-powered optimization
+- 🌐 IoT connectivity solutions for charging infrastructure
+- 💳 Secure payment gateways for charging services
+- 📈 Energy demand forecasting using AI/ML algorithms
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+## 🚗 EV Industry Expertise
 
-<div align="center">
-  <h3>Support My Work</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/skbhati199"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/OCPP_Protocol-1.6/2.0-blue?style=for-the-badge" alt="OCPP" />
+  <img src="https://img.shields.io/badge/Smart_Charging-Optimization-green?style=for-the-badge" alt="Smart Charging" />
+  <img src="https://img.shields.io/badge/V2G_Integration-Bidirectional-orange?style=for-the-badge" alt="V2G" />
+  <img src="https://img.shields.io/badge/Energy_Management-Advanced-red?style=for-the-badge" alt="Energy Management" />
+</p>
+
+## 📱 Mobile Development Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJava" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Flutter_Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Bloc" />
+  <img src="https://img.shields.io/badge/React_Navigation-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Navigation" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white" alt="MobX" />
+  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" alt="Realm" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
+</p>
+
+## 🧠 AI Generation Tools & ML
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+</p>
+
+## 🎨 UI Libraries & Design Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+## 🌐 Web Development Frameworks & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
+</p>
+
+## 🔧 Software Development Libraries & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/skbhati199/skbhati199/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
