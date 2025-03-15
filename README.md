@@ -266,7 +266,7 @@ I'm currently focused on developing sustainable software solutions for the EV in
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/skbhati199/skbhati199/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/skbhati199/skbhati199/refs/heads/master/assets/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
