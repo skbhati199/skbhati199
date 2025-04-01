@@ -153,7 +153,7 @@ Tools: Git, Jira, Figma, Postman, VS Code
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skbhati199)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skbhati199)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://skbhati.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://skbhati199.github.io/skbhati199)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@skbhati199)
 [![Dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/skbhati199)
 
