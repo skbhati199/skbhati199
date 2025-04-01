@@ -11,6 +11,22 @@
 - 🌱 I'm learning advanced React patterns and AI integration
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about React, React Native, Next.js, and AI integration
+- 🤝 Open to mentoring and helping others with their coding journey
+- 📚 Constantly exploring new technologies and frameworks
+- 🌐 Working on contributing to more open-source projects
+
+### 🛠️ Skills and Technologies
+
+```
+Frontend: React, Next.js, Angular, Vue, JavaScript/TypeScript, HTML5, CSS3, Tailwind, Material UI
+Backend: Node.js, Express, Python, Django, FastAPI, Go, Java Spring Boot
+Mobile: React Native, Flutter, Android Native (Java/Kotlin), iOS (Swift)
+Database: MongoDB, PostgreSQL, MySQL, Firebase, Redis
+Cloud: AWS, Google Cloud, Azure, Vercel, Netlify
+DevOps: Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins
+AI/ML: TensorFlow, PyTorch, OpenAI API, Hugging Face, LangChain
+Tools: Git, Jira, Figma, Postman, VS Code
+```
 
 ### 📊 GitHub Repository Analysis
 
@@ -94,6 +110,10 @@
   ```
 </details>
 
+### 📈 Contribution Graph
+
+[![Sonu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skbhati199&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
 1. 🚀 Pushed to skbhati199/openai-chat-nextjs
@@ -102,6 +122,11 @@
 4. 🚀 Pushed to skbhati199/animals-helping-trust
 5. 🚀 Pushed to skbhati199/best-sarkari-results
 <!--END_SECTION:activity-->
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=skbhati199&theme=radical&no-frame=true&no-bg=false&margin-w=4)
@@ -112,7 +137,29 @@
 - ✅ Archive inactive repositories
 - ✅ Improve documentation with READMEs
 - ✅ Add appropriate licensing
+- ⬜ Contribute to popular open-source projects weekly
+- ⬜ Create more tutorial repositories to help the community
+- ⬜ Add test coverage to all active projects
+
+### 📌 Featured Projects
+
+<a href="https://github.com/skbhati199/openai-chat-nextjs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skbhati199&repo=openai-chat-nextjs&theme=radical" />
+</a>
+<a href="https://github.com/skbhati199/reactnative-expense-manger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skbhati199&repo=reactnative-expense-manger&theme=radical" />
+</a>
 
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skbhati199)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skbhati199) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skbhati199)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://skbhati.com)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@skbhati199)
+[![Dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/skbhati199)
+
+### 👨‍💻 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/skbhati199/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skbhati199)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/skbhati199)
+
+### 📫 How to reach me: skbhati199@gmail.com 
