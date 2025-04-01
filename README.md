@@ -159,7 +159,7 @@ Tools: Git, Jira, Figma, Postman, VS Code
 
 ### 👨‍💻 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/skbhati199/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skbhati199)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/f7c5140fe106)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/skbhati199)
 
 ### 📫 How to reach me: skbhati199@gmail.com 
