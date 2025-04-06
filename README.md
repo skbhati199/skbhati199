@@ -116,11 +116,11 @@ Tools: Git, Jira, Figma, Postman, VS Code
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to skbhati199/openai-chat-nextjs
-2. 🚀 Pushed to skbhati199/ai-assistant-with-google
-3. 🚀 Pushed to skbhati199/reactnative-expense-manger
-4. 🚀 Pushed to skbhati199/animals-helping-trust
-5. 🚀 Pushed to skbhati199/best-sarkari-results
+1. 🔒 Closed issue [#47](https://github.com/skbhati199/calculator/issues/47) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
+2. 🔒 Closed issue [#46](https://github.com/skbhati199/calculator/issues/46) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
+3. 🔒 Closed issue [#45](https://github.com/skbhati199/calculator/issues/45) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
+4. 🔒 Closed issue [#44](https://github.com/skbhati199/calculator/issues/44) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
+5. 🔒 Closed issue [#43](https://github.com/skbhati199/calculator/issues/43) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Development Breakdown
