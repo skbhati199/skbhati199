@@ -1,13 +1,13 @@
 # Hi there, I'm Sonu Kumar 👋
 
-## 👨‍💻 Full Stack Developer | Mobile App Developer | AI Enthusiast
+## 👨‍💻 Java Full Stack Developer | Mobile App Developer | AI Enthusiast
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skbhati199&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 🚀 About Me
-- 🔭 I'm currently working on AI-powered applications and mobile solutions
+- 🔭 I'm currently working on AI-powered SAAS applications + mobile solutions
 - 🌱 I'm learning advanced React patterns and AI integration
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about React, React Native, Next.js, and AI integration
