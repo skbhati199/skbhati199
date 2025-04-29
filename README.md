@@ -116,11 +116,11 @@ Tools: Git, Jira, Figma, Postman, VS Code
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#47](https://github.com/skbhati199/calculator/issues/47) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
-2. 🔒 Closed issue [#46](https://github.com/skbhati199/calculator/issues/46) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
-3. 🔒 Closed issue [#45](https://github.com/skbhati199/calculator/issues/45) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
-4. 🔒 Closed issue [#44](https://github.com/skbhati199/calculator/issues/44) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
-5. 🔒 Closed issue [#43](https://github.com/skbhati199/calculator/issues/43) in [skbhati199/calculator](https://github.com/skbhati199/calculator)
+1. 🔒 Closed issue [#47](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System/issues/47) in [skbhati199/calculator](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System)
+2. 🔒 Closed issue [#46](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System/issues/46) in [skbhati199/calculator](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System)
+3. 🔒 Closed issue [#45](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System/issues/45) in [skbhati199/calculator](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System)
+4. 🔒 Closed issue [#44](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System/issues/44) in [skbhati199/calculator](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System)
+5. 🔒 Closed issue [#43](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System/issues/43) in [skbhati199/calculator](https://github.com/skbhati199/Online-Doctor-Appointment-Booking-System)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Development Breakdown
